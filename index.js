@@ -1,6 +1,6 @@
 var Promise = require('promise');
 var _ = require('lodash');
-var mjAPI = require("MathJax-node/lib/mj-single.js");
+var mjAPI = require("mathjax-node/lib/mj-single.js");
 
 mjAPI.config({
   MathJax: {
