@@ -13,6 +13,7 @@
   "author": "Andrea Bedini <andrea@andreabedini.com>",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^3.10.1",
     "mathjax-node": "^0.4.0",
     "promise": "^7.0.4"
   },
