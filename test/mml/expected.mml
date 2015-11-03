@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>c</mi>
+  <mo>=</mo>
+  <mo>&#x00B1;<!-- ± --></mo>
+  <msqrt>
+    <msup>
+      <mi>a</mi>
+      <mn>2</mn>
+    </msup>
+    <mo>+</mo>
+    <msup>
+      <mi>b</mi>
+      <mn>2</mn>
+    </msup>
+  </msqrt>
+</math>

@@ -1,0 +1,21 @@
+{
+  "name": "jstransformer-mathjax",
+  "version": "0.0.1",
+  "description": "MathJax support for JSTransformers",
+  "main": "index.js",
+  "keywords": [
+      "jstransformer"
+  ],
+  "scripts": {
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "author": "Andrea Bedini <andrea@andreabedini.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mathjax-node": "^0.4.0"
+  },
+  "devDependencies": {
+    "test-jstransformer": "^1.0.1"
+  }
+}
