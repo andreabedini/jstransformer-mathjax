@@ -1,4 +1,3 @@
-var Promise = require('promise');
 var _ = require('lodash');
 var mjAPI = require("mathjax-node/lib/mj-single.js");
 
