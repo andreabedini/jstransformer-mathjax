@@ -1,4 +1,4 @@
-var mjAPI = require("mathjax-node/lib/mj-single.js");
+var mjAPI = require("mathjax-node");
 
 mjAPI.config({
   MathJax: {
